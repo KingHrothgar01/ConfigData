@@ -1,0 +1,4 @@
+eureka:
+  client:
+    service-Url:
+      defaultZone: http://localhost:8010/eureka/

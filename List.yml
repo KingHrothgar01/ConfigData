@@ -1,0 +1,10 @@
+available-payment-channels-list:
+  channelConfigurations:
+    -
+      id: "0001"
+      name: "LRE"
+      Country: "1000200030004000"
+    -
+      id: "0002"
+      name: "SEA"
+      Country: "1000200030004000"

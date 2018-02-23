@@ -3,8 +3,8 @@ available-payment-channels-list:
     -
       id: "0001"
       name: "LRE"
-      Country: "1000200030004000"
+      country: "1000200030004000"
     -
       id: "0002"
       name: "SEA"
-      Country: "1000200030004000"
+      country: "1000200030004000"
